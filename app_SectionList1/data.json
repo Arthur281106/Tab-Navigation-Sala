@@ -1,0 +1,30 @@
+[
+  {
+    "curso": "Engenharia",
+    "data": [
+      { "nome": "João Silva", "cpf": "123.456.789-00", "nascimento": "01/01/2000", "ingresso": 2018 },
+      { "nome": "Maria Souza", "cpf": "987.654.321-00", "nascimento": "15/05/1999", "ingresso": 2017 }
+    ]
+  },
+  {
+    "curso": "Direito",
+    "data": [
+      { "nome": "Carlos Pereira", "cpf": "111.222.333-44", "nascimento": "20/03/2001", "ingresso": 2019 },
+      { "nome": "Ana Costa", "cpf": "555.666.777-88", "nascimento": "10/07/2000", "ingresso": 2018 }
+    ]
+  },
+  {
+    "curso": "ADS",
+    "data": [
+      { "nome": "Julio Almeida", "cpf": "555.777.144-20", "nascimento": "25/10/1972", "ingresso": 2018 },
+      { "nome": "Dona Maria", "cpf": "875.456.132.77", "nascimento": "11/07/1999", "ingresso": 2020 }
+    ]
+  },
+  {
+    "curso": "Medicina",
+    "data": [
+      { "nome": "Dr. João", "cpf": "478.123.456-78", "nascimento": "14/12/2001", "ingresso": 2019 },
+      { "nome": "Ana", "cpf": "987.654.321-00", "nascimento": "17/01/2006", "ingresso": 2018 }
+    ]
+  }
+]
